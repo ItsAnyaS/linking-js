@@ -1,0 +1,1 @@
+const newArr = [1, 3, 5]
